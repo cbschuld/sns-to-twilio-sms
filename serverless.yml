@@ -13,7 +13,6 @@ provider:
   name: aws
   region: us-west-2
   runtime: nodejs12.x
-  profile: isn
   environment:
     AWS_NODEJS_CONNECTION_REUSE_ENABLED: 1
     TWILIO_ACCOUNT_SID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
